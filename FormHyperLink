@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head><title>Form Hyperlink</title></head>
+   <body>
+       <h2>Links to the Registration Form</h2>
+       <p>(Click on the picture or text)</p>
+	   <a href = "file:///C:/Users/ADMIN/Desktop/BITS%20Sem1/spport.html" ><img src="form.jpg" alt="Form Hyperlink" height="100" width="100"></a><br>
+       <a href = "file:///C:/Users/ADMIN/Desktop/BITS%20Sem1/spport.html" >
+	   Click to fill the form latest by Monday</a>
+	   <p> &reg;ABC Corporation</p>
+   </body>
+     
+</html>
